@@ -1,0 +1,10 @@
+default_context:
+  project_name: sg-prototype
+  repo_url: https://github.com/AllenInstitute/aibs.sg_prototype
+  project_slug: sg_prototype
+  project_short_description: Provides ability to test a single sphinx-gallery example file using aibs_sphinx theme
+  project_namespace: aibs
+  version: 0.1.0
+  full_name: Nicholas Cain
+  user_name: nicholasc
+  email: nicholasc@alleninstitute.org

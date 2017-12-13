@@ -1,0 +1,12 @@
+{
+    "_template": "https://github.com/nicain/pyproject_template", 
+    "email": "nicholasc@alleninstitute.org", 
+    "full_name": "Nicholas Cain", 
+    "project_name": "sg-prototype", 
+    "project_namespace": "aibs", 
+    "project_short_description": "Provides ability to test a single sphinx-gallery example file using aibs_sphinx theme", 
+    "project_slug": "sg_prototype", 
+    "repo_url": "https://github.com/AllenInstitute/aibs.sg_prototype", 
+    "user_name": "nicholasc", 
+    "version": "0.1.0"
+}
